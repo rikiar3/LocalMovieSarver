@@ -1,0 +1,29 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local movies and thumbnails (prevent pushing large files and images to Git)
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.jpg
+*.png
+*.jpeg
+*.webp
